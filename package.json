@@ -1,0 +1,24 @@
+{
+  "name": "alex-webhook",
+  "version": "1.0.0",
+  "description": "Dialogflow webhook for medication reminders",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuderkind92/dialogflow-webhook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuderkind92/dialogflow-webhook/issues"
+  },
+  "homepage": "https://github.com/wuderkind92/dialogflow-webhook#readme"
+}
